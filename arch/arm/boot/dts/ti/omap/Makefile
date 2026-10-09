@@ -122,7 +122,7 @@ dtb-$(CONFIG_SOC_AM33XX) += \
 	am335x-osd3358-sm-red.dtb \
 	am335x-wsda-1500.dtb \
 	am335x-wsda-2000.dtb \
-	am335x-wsda-2000-ptp.dtb
+	am335x-wsda-pro.dtb
 dtb-$(CONFIG_SOC_AM43XX) += \
 	am43x-epos-evm.dtb \
 	am437x-cm-t43.dtb \
